@@ -6,7 +6,7 @@
 
 - To navigate to detail page kindly click the News Name in the list of newses (like, CNN, TechCrunch etv...)
 
-- Since BookMark data is stored in context API level. If we refresh the app Bookmarked news details get vaished.
+- Since BookMark data is stored in context API level. If we refresh the app bookmarked news details will get vaish.
 
 ## How to Run
 
