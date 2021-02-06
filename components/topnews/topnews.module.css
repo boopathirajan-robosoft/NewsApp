@@ -1,0 +1,56 @@
+.na-tn-block,
+.titleBlock {
+  display: flex;
+  align-items: flex-start;
+}
+
+.titleBlock {
+  justify-content: space-between;
+}
+
+.image {
+  width: 529px;
+  height: 297px;
+  object-fit: cover;
+}
+
+.contentBlock {
+  margin-left: 50px;
+}
+.title {
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+.bookMarkLogo {
+  padding: 13px 15px 9px;
+  border-radius: 100%;
+  background: #f3f3f3;
+  margin: 5px;
+  cursor: pointer;
+}
+.content {
+  color: #777777;
+  font-family: Inter;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-bottom: 20px;
+}
+.newsName {
+  color: #575757;
+  font-family: Inter;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 15px;
+  border: 1px solid #eff3f4;
+  border-radius: 23px;
+  background-color: #f7f4f4;
+  width: max-content;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.bookMarkLogo[active="true"] {
+  background-color: #b6b6ce;
+}

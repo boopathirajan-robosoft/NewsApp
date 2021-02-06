@@ -1,0 +1,16 @@
+.heading {
+  color: #000000;
+  font-family: Inter;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 45px;
+  margin: 0;
+}
+.tile-line {
+  height: 1px;
+  width: 38.5px;
+  border-bottom: 2px solid #5305ff;
+}
+.headingWrapper {
+  margin-bottom: 53px;
+}
