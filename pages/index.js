@@ -23,7 +23,7 @@ function Index(props) {
 
   const fetchData = async () => {
     const response = await fetch(
-      `https://newsapi.org/v2/everything?apiKey=1331c12502284c40a1556603cf167164&pageSize=10&q=sciences&page=${page}`
+      `https://newsapi.org/v2/everything?apiKey=132d64606ec0465082faadd12f45d6fe&pageSize=10&q=sciences&page=${page}`
     );
 
     const { articles = [] } = await response.json();
