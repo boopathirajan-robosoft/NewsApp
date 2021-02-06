@@ -1,5 +1,13 @@
 # NEWS APP
 
+## NOTES
+
+- Search is implemented. To validate the same Kindly click enter once seach query is typed in search field.
+
+- To navigate to detail page kindly click the News Name in the list of newses (like, CNN, TechCrunch etv...)
+
+- Since BookMark data is stored in context API level. If we refresh the app Bookmarked news details get vaished.
+
 ## How to Run
 
 1. Move the Project directory to your local directory
