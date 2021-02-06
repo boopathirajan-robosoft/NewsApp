@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+body {
+  margin: 0;
+}
+.na-content-area {
+  margin: 0 auto;
+  max-width: 1300px;
+  margin-top: 70px;
+  overflow: hidden;
+}
+.top-news-section {
+  margin-bottom: 100px;
+}
